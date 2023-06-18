@@ -3,10 +3,10 @@
     justify-content: space-around;
     padding: 2rem 0;
     background:linear-gradient(30deg, rgb(29, 28, 28), rgb(89, 87, 87));
-    color: aliceblue;
 }
 
 .nav-bar h1{
+    color: aliceblue;
     text-decoration: underline;
 }
 
